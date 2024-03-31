@@ -33,6 +33,6 @@ Hoewel we geen persoonsgegevens verzamelen, nemen we de bescherming van alle inf
 We kunnen deze privacyverklaring van tijd tot tijd bijwerken. Wij adviseren u om deze pagina regelmatig te bezoeken om op de hoogte te blijven van eventuele wijzigingen.
 
 ## Contact
-Heeft u vragen of opmerkingen over onze privacypraktijken, neem dan contact met ons op via [uw contactinformatie].
+Heeft u vragen of opmerkingen over onze privacypraktijken, neem dan contact met ons op via deze repository.
 
 ---
